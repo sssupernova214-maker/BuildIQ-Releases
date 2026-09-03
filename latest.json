@@ -1,5 +1,6 @@
 {
-  "version": "1.0.0",
-  "download_url": "https://github.com/sssupernova214-maker/BuildIQ-Releases/releases/download/v1.0.0/BuildIQSetup.exe",
-  "notes": "Initial BuildIQ release"
+  "version": "1.0.2",
+  "download_url": "https://github.com/sssupernova214-maker/BuildIQ-Releases/releases/download/v1.0.2/BuildIQSetup.exe",
+  "sha256": "8B0256309ADE4BE19880889EA4EAD594DF35936CB7CE1946C69474493F370E83",
+  "notes": "BuildIQ automatic update test"
 }
